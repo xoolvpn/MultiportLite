@@ -5,7 +5,7 @@
 
 
 # DISCRIPTION
-CREDIT THANKS TO سُبْحَانَهُ وَتَعَالَى)ﷲ), GITHUB & OLD FRIENDS #G404.
+CREDIT THANKS TO سُبْحَانَهُ وَتَعَالَى) ﷲ), GITHUB & OLD FRIENDS #G404.
 - FREE : AutoScript Multiport Lite V1.0 By @XoolVPN
 - NOTE : MUST HAVE YOUR OWN DOMAIN BEFORE INSTALL THIS SCRIPT.
 
