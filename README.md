@@ -1,3 +1,7 @@
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://photos.app.goo.gl/cbbFVx1FWvigP7ok9">
+
 <h1 align="center">AutoScript Multiport Lite V1</h1>
 
 <h3 align="center">Supported Linux Distribution</h3>
