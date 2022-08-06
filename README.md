@@ -1,4 +1,4 @@
-<h1 align="center">AutoScript Multiport Lite V1.0</h1>
+<h1 align="center">AutoScript MultiPort Lite V1.0</h1>
 
 <h3 align="center">Script Preview</h3>
 <p align="center">
