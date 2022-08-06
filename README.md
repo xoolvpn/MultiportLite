@@ -1,6 +1,6 @@
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://photos.app.goo.gl/cbbFVx1FWvigP7ok9">
+<img src="">
 
 <h1 align="center">AutoScript Multiport Lite V1</h1>
 
