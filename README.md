@@ -9,7 +9,7 @@ CREDIT THANKS TO سُبْحَانَهُ وَتَعَالَى) ﷲ), GITHUB & OLD
 - FREE : AutoScript Multiport Lite V1.0 By @XoolVPN
 - NOTE : MUST HAVE YOUR OWN DOMAIN BEFORE INSTALL THIS SCRIPT.
 
-# INSTALLATION AUTOSCRIPT
+# INSTALLATION (COPY & PASTE THIS TO UR VPS)
 ```
 apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/tryoo127/lite/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
