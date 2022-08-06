@@ -11,13 +11,13 @@
 - FREE : AutoScript Multiport Lite V1.0 By @XoolVPN
 - NOTE : MUST HAVE YOUR OWN DOMAIN BEFORE INSTALL THIS SCRIPT.
 
-# INSTALLATION
+# Installation
 ```
 apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/tryoo127/lite/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
  
 
-# VPN SERVICES AND PORTS
+# Vpn Services And Ports
 
 - XRAY VLESS XTLS      : 443 
 - XRAY VLESS WS TLS    : 443
