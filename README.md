@@ -7,8 +7,6 @@
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=red"> </p>
 
-
-# DISCRIPTION
 CREDIT THANKS TO سُبْحَانَهُ وَتَعَالَى) ﷲ), GITHUB & OLD FRIENDS #G404.
 - FREE : AutoScript Multiport Lite V1.0 By @XoolVPN
 - NOTE : MUST HAVE YOUR OWN DOMAIN BEFORE INSTALL THIS SCRIPT.
